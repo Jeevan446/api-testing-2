@@ -1,0 +1,261 @@
+[
+  {
+    "name": "Apple iPhone 15",
+    "price": 999,
+    "rating": 4.8,
+    "createAt": "2024-11-28T10:00:00Z",
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy S23",
+    "price": 899,
+    "rating": 4.7,
+    "createAt": "2024-11-28T10:05:00Z",
+    "company": "Samsung"
+  },
+  {
+    "name": "Sony WH-1000XM5 Headphones",
+    "price": 350,
+    "rating": 4.9,
+    "createAt": "2024-11-28T10:10:00Z",
+    "company": "Sony"
+  },
+  {
+    "name": "Nike Air Zoom Pegasus 40",
+    "price": 120,
+    "rating": 4.6,
+    "createAt": "2024-11-28T10:15:00Z",
+    "company": "Nike"
+  },
+  {
+    "name": "Dell XPS 13 Laptop",
+    "price": 1399,
+    "rating": 4.8,
+    "createAt": "2024-11-28T10:20:00Z",
+    "company": "Dell"
+  },
+  {
+    "name": "Apple MacBook Pro 14",
+    "price": 1999,
+    "rating": 4.9,
+    "createAt": "2024-11-28T10:25:00Z",
+    "company": "Apple"
+  },
+  {
+    "name": "Google Pixel 8",
+    "price": 799,
+    "rating": 4.6,
+    "createAt": "2024-11-28T10:30:00Z",
+    "company": "Google"
+  },
+  {
+    "name": "Microsoft Surface Laptop 5",
+    "price": 1299,
+    "rating": 4.7,
+    "createAt": "2024-11-28T10:35:00Z",
+    "company": "Microsoft"
+  },
+  {
+    "name": "Bose QuietComfort 45 Headphones",
+    "price": 329,
+    "rating": 4.8,
+    "createAt": "2024-11-28T10:40:00Z",
+    "company": "Bose"
+  },
+  {
+    "name": "Samsung QLED 65-inch TV",
+    "price": 1500,
+    "rating": 4.7,
+    "createAt": "2024-11-28T10:45:00Z",
+    "company": "Samsung"
+  },
+  {
+    "name": "Sony PlayStation 5",
+    "price": 499,
+    "rating": 4.9,
+    "createAt": "2024-11-28T10:50:00Z",
+    "company": "Sony"
+  },
+  {
+    "name": "Microsoft Xbox Series X",
+    "price": 499,
+    "rating": 4.8,
+    "createAt": "2024-11-28T10:55:00Z",
+    "company": "Microsoft"
+  },
+  {
+    "name": "GoPro HERO 11",
+    "price": 399,
+    "rating": 4.7,
+    "createAt": "2024-11-28T11:00:00Z",
+    "company": "GoPro"
+  },
+  {
+    "name": "Apple Watch Series 8",
+    "price": 399,
+    "rating": 4.8,
+    "createAt": "2024-11-28T11:05:00Z",
+    "company": "Apple"
+  },
+  {
+    "name": "Sony Xperia 1 IV",
+    "price": 1200,
+    "rating": 4.6,
+    "createAt": "2024-11-28T11:10:00Z",
+    "company": "Sony"
+  },
+  {
+    "name": "HP Spectre x360",
+    "price": 1499,
+    "rating": 4.7,
+    "createAt": "2024-11-28T11:15:00Z",
+    "company": "HP"
+  },
+  {
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "price": 1700,
+    "rating": 4.8,
+    "createAt": "2024-11-28T11:20:00Z",
+    "company": "Lenovo"
+  },
+  {
+    "name": "Asus ROG Strix G15",
+    "price": 1499,
+    "rating": 4.7,
+    "createAt": "2024-11-28T11:25:00Z",
+    "company": "Asus"
+  },
+  {
+    "name": "Canon EOS R5",
+    "price": 3899,
+    "rating": 4.9,
+    "createAt": "2024-11-28T11:30:00Z",
+    "company": "Canon"
+  },
+  {
+    "name": "Fujifilm X-T4",
+    "price": 1699,
+    "rating": 4.8,
+    "createAt": "2024-11-28T11:35:00Z",
+    "company": "Fujifilm"
+  },
+  {
+    "name": "Microsoft Surface Pro 9",
+    "price": 1299,
+    "rating": 4.7,
+    "createAt": "2024-11-28T11:40:00Z",
+    "company": "Microsoft"
+  },
+  {
+    "name": "Google Nest Thermostat",
+    "price": 130,
+    "rating": 4.6,
+    "createAt": "2024-11-28T11:45:00Z",
+    "company": "Google"
+  },
+  {
+    "name": "Dyson V15 Detect Vacuum",
+    "price": 799,
+    "rating": 4.9,
+    "createAt": "2024-11-28T11:50:00Z",
+    "company": "Dyson"
+  },
+  {
+    "name": "iRobot Roomba 692",
+    "price": 299,
+    "rating": 4.7,
+    "createAt": "2024-11-28T11:55:00Z",
+    "company": "iRobot"
+  },
+  {
+    "name": "Amazon Echo Show 10",
+    "price": 249,
+    "rating": 4.6,
+    "createAt": "2024-11-28T12:00:00Z",
+    "company": "Amazon"
+  },
+  {
+    "name": "LG OLED C1 55-inch TV",
+    "price": 1800,
+    "rating": 4.8,
+    "createAt": "2024-11-28T12:05:00Z",
+    "company": "LG"
+  },
+  {
+    "name": "Samsung Galaxy Tab S8",
+    "price": 650,
+    "rating": 4.7,
+    "createAt": "2024-11-28T12:10:00Z",
+    "company": "Samsung"
+  },
+  {
+    "name": "Huawei MatePad Pro",
+    "price": 599,
+    "rating": 4.6,
+    "createAt": "2024-11-28T12:15:00Z",
+    "company": "Huawei"
+  },
+  {
+    "name": "Nikon Z6 II Camera",
+    "price": 1999,
+    "rating": 4.8,
+    "createAt": "2024-11-28T12:20:00Z",
+    "company": "Nikon"
+  },
+  {
+    "name": "Oculus Quest 2",
+    "price": 299,
+    "rating": 4.9,
+    "createAt": "2024-11-28T12:25:00Z",
+    "company": "Meta"
+  },
+  {
+    "name": "Razer Blade 15",
+    "price": 1999,
+    "rating": 4.7,
+    "createAt": "2024-11-28T12:30:00Z",
+    "company": "Razer"
+  },
+  {
+    "name": "Fitbit Charge 5",
+    "price": 149,
+    "rating": 4.6,
+    "createAt": "2024-11-28T12:35:00Z",
+    "company": "Fitbit"
+  },
+  {
+    "name": "Apple AirPods Pro 2",
+    "price": 249,
+    "rating": 4.9,
+    "createAt": "2024-11-28T12:40:00Z",
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy Buds 2 Pro",
+    "price": 229,
+    "rating": 4.8,
+    "createAt": "2024-11-28T12:45:00Z",
+    "company": "Samsung"
+  },
+  {
+    "name": "Oculus Rift S",
+    "price": 399,
+    "rating": 4.7,
+    "createAt": "2024-11-28T12:50:00Z",
+    "company": "Meta"
+  },
+  {
+    "name": "Apple iPad Pro 12.9",
+    "price": 1099,
+    "rating": 4.8,
+    "createAt": "2024-11-28T12:55:00Z",
+    "company": "Apple"
+  },
+  {
+    "name": "Bose SoundLink Revolve+",
+    "price": 299,
+    "rating": 4.7,
+    "createAt": "2024-11-28T13:00:00Z",
+    "company": "Bose"
+  }
+]
